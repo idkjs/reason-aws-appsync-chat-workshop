@@ -248,12 +248,12 @@ amplify delete
 
 The [AWS Amplify Console](https://console.amplify.aws) provides continuous deployment and hosting for modern web apps (single page apps and static site generators) with serverless backends. Continuous deployment allows developers to deploy updates to either the frontend or backend (Lambda functions, GraphQL resolvers) on every code commit to the Git repository.
 
-1. Push your code to a Git repository of your choice.
-1. Login to the [AWS Amplify Console](https://console.aws.amazon.com/amplify/home) and choose **Connect app**
-1. Connect your repository and branch.
-1. Accept the default build settings.
-1. Give the Amplify Console permission to deploy backend resources with your frontend. This will allow the Console to detect changes to your backend on every code commit. If you do not have a service role, follow the prompts to create one.
-1. Review your changes and then choose **Save and deploy**. You app will now be available at `https://master.unique-id.amplifyapp.com`.
+- Push your code to a Git repository of your choice.
+- Login to the [AWS Amplify Console](https://console.aws.amazon.com/amplify/home) and choose **Connect app**
+- Connect your repository and branch.
+- Accept the default build settings.
+- Give the Amplify Console permission to deploy backend resources with your frontend. This will allow the Console to detect changes to your backend on every code commit. If you do not have a service role, follow the prompts to create one.
+- Review your changes and then choose **Save and deploy**. You app will now be available at `https://master.unique-id.amplifyapp.com`.
 
 ## About
 
