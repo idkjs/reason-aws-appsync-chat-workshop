@@ -1,4 +1,4 @@
-![](src/assets/hero1.jpg)
+![](https://raw.githubusercontent.com/idkjs/reason-aws-appsync-chat-workshop/master/src/assets/hero1.jpg)
 
 ## Chatt with [ReasonML](https://reasonml.github.io/) and [Bucklescript](https://bucklescript.github.io/)
 
@@ -52,7 +52,7 @@ Follow the rest of the instruction and the app will will work just like the orig
 
 ## Screens
 
-![](src/assets/hero2.jpg)
+![](https://raw.githubusercontent.com/idkjs/reason-aws-appsync-chat-workshop/master/src/assets/hero2.jpg)
 
 ## Building the App (automated)
 
